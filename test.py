@@ -61,7 +61,7 @@ fac_order = ["SAMF", "JUR", "TEO", "SUND", "HUM", "SCIENCE"]
 # Layout for alle år
 pos = {"A": (0,0), "B": (1,1), "C": (2,0)}
 
-with open(r"S:/FAD-REKSEK-REKSTAB-ABI-Analyse/quarto/ku_skabeloner/ku-farver02.json", encoding="utf-8") as f:
+with open(r"ku-farver02.json", encoding="utf-8") as f:
     ku_farver = json.load(f)
 
 faculty_base_colors = {
@@ -425,6 +425,7 @@ with c10:
             grp,
             help = "hej"
         )
+
 
 
 

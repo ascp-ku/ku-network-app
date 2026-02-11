@@ -1,0 +1,35 @@
+{
+    "Roed": {
+        "Moerk": "#901a1E",
+        "Mellem": "#c73028",
+        "Lys": "#dB3B0A"
+    },
+    "Blaa": {
+        "Moerk":"#122947",
+        "Mellem":"#425570", 
+        "Lys":"#bac7d9"
+    },
+    "Petroleum": {
+        "Moerk":"#0a5963", 
+        "Mellem":"#197f8e", 
+        "Lys":"#b7d7de"
+    },
+    "Groen": {
+        "Moerk":"#39641c",
+        "Mellem":"#4b8325", 
+        "Lys":"#becaa8"
+    }, 
+    "Graa": {
+        "Moerk":"#3d3d3d",
+        "Mellem":"#666666",
+        "Lys":"#e1dfdf"
+    },
+    "HvidGul": {
+        "Hvid":"#ffffff",
+        "Champagne":"#fefaf2",
+        "Gul":"#ffbd38"
+    }
+}
+
+
+
